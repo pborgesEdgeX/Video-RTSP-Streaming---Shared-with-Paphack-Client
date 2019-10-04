@@ -1,4 +1,4 @@
-# paphack
+# paphack app
 Repository for RTSP Video Streaming app using Webcam as producer and digesting data with Web Interface &amp; Android App
 
 [![GitHub license](https://img.shields.io/github/license/pborgesEdgeX/paphack)](https://github.com/pborgesEdgeX/paphack/blob/master/LICENSE) [![GitHub issues](https://img.shields.io/github/issues/pborgesEdgeX/paphack)](https://github.com/pborgesEdgeX/paphack/issues) [![GitHub forks](https://img.shields.io/github/forks/pborgesEdgeX/paphack)](https://github.com/pborgesEdgeX/paphack/forks)  [![GitHub stars](https://img.shields.io/github/stars/pborgesEdgeX/paphack)](https://github.com/pborgesEdgeX/paphack/stargazers)
