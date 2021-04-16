@@ -170,10 +170,6 @@ $ KAFKA_HOME/bin/kafka-console-consumer.sh --from-beginning --bootstrap-server k
 
 We use [SemVer](http://semver.org/) for versioning. The latest version of this code is 1.0.0.
 
-## Authors
-
-* **[Paulo Borges](https://www.linkedin.com/in/pborges1/)** - *Initial work* (https://github.com/pborgesEdgeX)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/pborgesEdgeX/full_app/blob/master/LICENSE) file for details
